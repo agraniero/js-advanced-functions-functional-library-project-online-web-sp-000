@@ -5,7 +5,7 @@ const fi = (function() {
     },
 
     each: function(collection, callback) {
-      for (var i=0, i<collection.length; i++)
+      for (var i=0; i<collection.length; i++)
     },
 
     map: function() {
